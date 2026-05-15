@@ -46,4 +46,3 @@ npm run dev
 ```
 
 ---
-Desarrollado con ❤️ para impresionar a cualquier reclutador técnico.
